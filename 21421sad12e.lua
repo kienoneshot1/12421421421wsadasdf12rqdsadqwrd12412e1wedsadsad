@@ -12,7 +12,7 @@ getgenv().Config = {
     ["Kill Aura"] = { "Ghoul" }, -- use kill aura for ghoul and human trial
     ["Setup Account For Trial Fishman"] = {
         ["Enable"] = true,
-        ["Sword"] = { "Yama-300", "Saber-125" }, -- priotity left right, "-x" is mastery
+        ["Sword"] = { "Dragon Trident-350", "Yama-300", "Saber-125" }, -- priotity left right, "-x" is mastery
         ["Melee"] = { "Sharkman Karate-300" } -- priotity left right, "-x" is mastery
     },
 
