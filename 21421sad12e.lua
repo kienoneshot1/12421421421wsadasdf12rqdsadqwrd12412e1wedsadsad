@@ -1,3 +1,4 @@
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 getgenv().Config = {
 
     ["Token"] = "ORCAV4_bByUTC3AaGva", -- go to https://v4panel.orca-hub.xyz/ and get it
