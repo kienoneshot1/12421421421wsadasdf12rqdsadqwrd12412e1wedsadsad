@@ -7,7 +7,7 @@ getgenv().Config = {
     ["Lock FPS"] = 60,
 
     ["Gear"] = "BestGear", -- "BestGear", "A-A-B", "A-B-B", "B-B-A", "B-A-A"...
-    ["Lock Tier"] = 1, -- 1-10, set 0 = disable
+    ["Lock Tier"] = 6, -- 1-10, set 0 = disable
     ["Main Account Race"] = {"Ghoul"}, -- "Human", "Skypiea", "Mink", "Fishman", "Ghoul", "Cyborg"; leave blank to disable 
     ["Kill Aura"] = { "Ghoul" }, -- use kill aura for ghoul and human trial
     ["Setup Account For Trial Fishman"] = {
