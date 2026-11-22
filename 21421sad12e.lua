@@ -5,7 +5,7 @@ getgenv().Config = {
 
     ["Team"] = "Marines",
     ["Boost FPS"] = false,
-    ["Lock FPS"] = 15,
+    ["Lock FPS"] = 25,
 
     ["Gear"] = "BestGear", -- "BestGear", "A-A-B", "A-B-B", "B-B-A", "B-A-A"...
     ["Lock Tier"] = 6, -- 1-10, set 0 = disable
