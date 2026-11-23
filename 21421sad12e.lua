@@ -10,7 +10,7 @@ getgenv().Config = {
     ["Gear"] = "BestGear", -- "BestGear", "A-A-B", "A-B-B", "B-B-A", "B-A-A"...
     ["Lock Tier"] = 6, -- 1-10, set 0 = disable
     ["Main Account Race"] = {"Ghoul"}, -- "Human", "Skypiea", "Mink", "Fishman", "Ghoul", "Cyborg"; leave blank to disable 
-    ["Kill Aura"] = {}, -- use kill aura for ghoul and human trial
+    ["Kill Aura"] = { "Ghoul" }, -- use kill aura for ghoul and human trial
     ["Setup Account For Trial Fishman"] = {
         ["Enable"] = true,
         ["Sword"] = { "Dragon Trident-350", "Yama-300", "Saber-125" }, -- priotity left right, "-x" is mastery
